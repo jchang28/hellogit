@@ -1,5 +1,5 @@
-if(favChar == "") {
+if(favChar == "Homer Simpson") {
 	printf "You have chosen my favorite character, too!");
 }
 else {
-	printf "is better";
+	printf "Homer Simpson is better";

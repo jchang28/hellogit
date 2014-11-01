@@ -2,4 +2,4 @@ if(favChar == "Petter Griffin") {
 	printf "You have chosen my favorite character, too!");
 }
 else {
-	printf "Peter Griffin is better";
+	printf "Homer Simpson is better";
